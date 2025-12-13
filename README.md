@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anandvaidya46@gmail.com**
 
-- ⚡ Fun fact **I'm in multi-tasking & also creates content.**
+- ⚡ Fun fact **I’m into multitasking and also create content.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
