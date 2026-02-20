@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Anand Vaidya</h1>
+<h1 align="center">Hi , I'm Anand Vaidya</h1>
 <h3 align="center">A 3rd year undergraduate Ai-ml engineer from Jabalpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvaidya21&label=Profile%20views&color=0e75b6&style=flat" alt="anandvaidya21" /> </p>
 
-- 🌱 I’m currently learning **Advance LLM work & advance aiml**
+-  I’m currently learning **Advance LLM work & advance aiml**
 
-- 👯 I’m looking to collaborate on **Gen ai & ml projects**
+-  I’m looking to collaborate on **Gen ai & ml projects**
 
-- 🤝 I’m looking for help with **Ai & Ml & data analyst**
+-  I’m looking for help with **Ai & Ml & data analyst**
 
-- 👨‍💻 All of my projects are available at [https://anand-s-portfolio.vercel.app/](https://anand-s-portfolio.vercel.app/)
+-  All of my projects are available at [https://anand-s-portfolio.vercel.app/](https://anand-s-portfolio.vercel.app/)
 
-- 💬 Ask me about **Machine learning , Data analysis & Development**
+-  Ask me about **Machine learning , Data analysis & Development**
 
-- 📫 How to reach me **anandvaidya46@gmail.com**
+-  How to reach me **anandvaidya46@gmail.com**
 
-- ⚡ Fun fact **I’m into multitasking and also create content.**
+-  Fun fact **I’m into multitasking and also create content.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
