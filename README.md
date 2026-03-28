@@ -14,7 +14,7 @@
 
 -  All of my projects are available at [https://anand-s-portfolio.vercel.app/](https://anand-s-portfolio.vercel.app/)
 
--  Ask me about **Machine learning , Data analysis & Development**
+-  Ask me about **Machine learning , Data analysis & Development**.
 
 -  How to reach me **anandvaidya46@gmail.com**
 
