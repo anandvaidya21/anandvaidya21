@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvaidya21&label=Profile%20views&color=0e75b6&style=flat" alt="anandvaidya21" /> </p>
 
--  I’m currently learning **Advance LLM work & advance aiml**
+-  I’m currently learning **Advanced LLM applications** , 
+ **Generative AI and Deep Learning frameworks**, including **PyTorch, TensorFlow, and OpenCV**, along with strengthening my **Data Structures & Algorithms (DSA)** skills.🎯
 
--  I’m looking to collaborate on **Gen ai & ml projects**
 
--  I’m looking for help with **Ai & Ml & data analyst**
+-  I’m looking to collaborate on **Gen ai & ml projects**🧠
+
+-  I have completed two internships: first as a **Web Developer at Starial**, and second as a **Machine Learning & Data Analytics Intern at Hartalkers Innovation**.🧑🏻‍💻
+
 
 -  All of my projects are available at [https://anand-s-portfolio.vercel.app/](https://anand-s-portfolio.vercel.app/)
 
@@ -15,7 +18,7 @@
 
 -  How to reach me **anandvaidya46@gmail.com**
 
--  Fun fact **I’m into multitasking and also create content.**
+- Fun fact: I enjoy multitasking and I’m also a content creator.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
